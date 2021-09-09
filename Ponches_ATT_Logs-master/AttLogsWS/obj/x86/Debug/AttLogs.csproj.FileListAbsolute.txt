@@ -1,0 +1,68 @@
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogs\bin\x86\Debug\AttLogs.exe.config
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogs\bin\x86\Debug\AttLogs.exe
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogs\bin\x86\Debug\AttLogs.pdb
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogs\bin\x86\Debug\Interop.zkemkeeper.dll
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogs\bin\x86\Debug\Rackspace.Collections.Immutable.dll
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogs\bin\x86\Debug\Rackspace.Collections.Immutable.xml
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogs\obj\x86\Debug\AttLogs.AttLogsMain.resources
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogs\obj\x86\Debug\AttLogs.Properties.Resources.resources
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogs\obj\x86\Debug\AttLogs.csproj.GenerateResource.Cache
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogs\obj\x86\Debug\AttLogs.exe
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogs\obj\x86\Debug\AttLogs.pdb
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogs\obj\x86\Debug\Interop.zkemkeeper.dll
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogs\obj\x86\Debug\AttLogs.csproj.ResolveComReference.cache
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogs\obj\x86\Debug\AttLogs.csprojResolveAssemblyReference.cache
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogsWS\bin\x86\Debug\AttLogs.exe.config
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogsWS\bin\x86\Debug\AttLogs.exe
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogsWS\bin\x86\Debug\AttLogs.pdb
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogsWS\bin\x86\Debug\Rackspace.Collections.Immutable.dll
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogsWS\bin\x86\Debug\Rackspace.Collections.Immutable.xml
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogsWS\bin\x86\Debug\Interop.zkemkeeper.dll
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogsWS\obj\x86\Debug\Interop.zkemkeeper.dll
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogsWS\obj\x86\Debug\Attlogs.csproj.ResolveComReference.cache
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogsWS\obj\x86\Debug\AttLogs.AttLogsMain.resources
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogsWS\obj\x86\Debug\AttLogs.Properties.Resources.resources
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogsWS\obj\x86\Debug\Attlogs.csproj.GenerateResource.Cache
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogsWS\obj\x86\Debug\AttLogs.exe
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogsWS\obj\x86\Debug\AttLogs.pdb
+C:\Users\gmarte\Documents\Visual Studio 2010\projects\AttLogsWS\obj\x86\Debug\Attlogs.csprojResolveAssemblyReference.cache
+C:\Users\gmarte.CESARIGLESIAS\Documents\Visual Studio 2010\projects\AttLogsWS\bin\x86\Debug\AttLogs.exe.config
+C:\Users\gmarte.CESARIGLESIAS\Documents\Visual Studio 2010\projects\AttLogsWS\obj\x86\Debug\Interop.zkemkeeper.dll
+C:\Users\gmarte.CESARIGLESIAS\Documents\Visual Studio 2010\projects\AttLogsWS\obj\x86\Debug\Attlogs.csproj.ResolveComReference.cache
+C:\Users\gmarte.CESARIGLESIAS\Documents\Visual Studio 2010\projects\AttLogsWS\obj\x86\Debug\AttLogs.exe
+C:\Users\gmarte.CESARIGLESIAS\Documents\Visual Studio 2010\projects\AttLogsWS\obj\x86\Debug\AttLogs.pdb
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\bin\x86\Debug\AttLogs.exe.config
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\obj\x86\Debug\Interop.zkemkeeper.dll
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\obj\x86\Debug\Attlogs.csproj.ResolveComReference.cache
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\obj\x86\Debug\AttLogs.exe
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\obj\x86\Debug\AttLogs.pdb
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\obj\x86\Debug\Interop.zkemkeeper.dll
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\obj\x86\Debug\Attlogs.csproj.ResolveComReference.cache
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\obj\x86\Debug\AttLogs.AttLogsMain.resources
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\obj\x86\Debug\AttLogs.Properties.Resources.resources
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\obj\x86\Debug\Attlogs.csproj.GenerateResource.cache
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\obj\x86\Debug\Attlogs.csproj.CoreCompileInputs.cache
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\obj\x86\Debug\AttLogs.exe
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\obj\x86\Debug\AttLogs.pdb
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\bin\x86\Debug\accessdb\att2000.mdb
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\bin\x86\Debug\AttLogs.exe.config
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\bin\x86\Debug\AttLogs.exe
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\bin\x86\Debug\AttLogs.pdb
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\bin\x86\Debug\Rackspace.Collections.Immutable.dll
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\bin\x86\Debug\Rackspace.Collections.Immutable.xml
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\bin\x86\Debug\Interop.zkemkeeper.dll
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\obj\x86\Debug\Attlogs.csproj.CopyComplete
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\bin\x86\Debug\accessdb\att2000.mdb
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\bin\x86\Debug\AttLogs.exe
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\bin\x86\Debug\AttLogs.pdb
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\bin\x86\Debug\Rackspace.Collections.Immutable.dll
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\bin\x86\Debug\Rackspace.Collections.Immutable.xml
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\bin\x86\Debug\Interop.zkemkeeper.dll
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\obj\x86\Debug\AttLogs.AttLogsMain.resources
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\obj\x86\Debug\AttLogs.Properties.Resources.resources
+C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\obj\x86\Debug\Attlogs.csproj.GenerateResource.Cache
+C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\obj\x86\Debug\Attlogs.csprojAssemblyReference.cache

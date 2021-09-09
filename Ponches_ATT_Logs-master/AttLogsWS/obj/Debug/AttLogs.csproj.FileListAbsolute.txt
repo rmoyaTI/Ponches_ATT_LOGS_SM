@@ -1,0 +1,24 @@
+E:\C#\Black&White\AttLogs\obj\Debug\Interop.zkemkeeper.dll
+E:\C#\Black&White\AttLogs\obj\Debug\AttLogs.csproj.ResolveComReference.cache
+C:\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\bin\Debug\AttLogs.exe.config
+C:\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\bin\Debug\AttLogs.exe
+C:\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\bin\Debug\AttLogs.pdb
+C:\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\bin\Debug\Interop.zkemkeeper.dll
+C:\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\obj\Debug\AttLogs.AttLogsMain.resources
+C:\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\obj\Debug\AttLogs.Properties.Resources.resources
+C:\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\obj\Debug\AttLogs.csproj.GenerateResource.Cache
+C:\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\obj\Debug\AttLogs.exe
+C:\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\obj\Debug\AttLogs.pdb
+\\DHPA628ZJ\c$\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\bin\Debug\AttLogs.exe.config
+\\DHPA628ZJ\c$\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\obj\Debug\Interop.zkemkeeper.dll
+\\DHPA628ZJ\c$\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\obj\Debug\AttLogs.csproj.ResolveComReference.cache
+\\DHPA628ZJ\c$\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\obj\Debug\AttLogs.exe
+\\DHPA628ZJ\c$\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\obj\Debug\AttLogs.pdb
+\\DHPA628ZJ\c$\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\bin\Debug\AttLogs.exe
+\\DHPA628ZJ\c$\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\bin\Debug\AttLogs.pdb
+\\DHPA628ZJ\c$\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\bin\Debug\Interop.zkemkeeper.dll
+\\DHPA628ZJ\c$\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\obj\Debug\AttLogs.AttLogsMain.resources
+\\DHPA628ZJ\c$\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\obj\Debug\AttLogs.Properties.Resources.resources
+\\DHPA628ZJ\c$\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\obj\Debug\AttLogs.csproj.GenerateResource.Cache
+C:\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\bin\Debug\Rackspace.Collections.Immutable.dll
+C:\Users\gmarte\Documents\Visual Studio 2010\Projects\AttLogs\bin\Debug\Rackspace.Collections.Immutable.xml
