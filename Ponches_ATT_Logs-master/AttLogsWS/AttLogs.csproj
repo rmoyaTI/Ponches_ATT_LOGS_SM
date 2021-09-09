@@ -170,6 +170,14 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="accessdb\att2000.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
     <COMReference Include="zkemkeeper">
       <Guid>{FE9DED34-E159-408E-8490-B720A5E632C7}</Guid>
       <VersionMajor>1</VersionMajor>
@@ -177,16 +185,8 @@
       <Lcid>0</Lcid>
       <WrapperTool>tlbimp</WrapperTool>
       <Isolated>False</Isolated>
-      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadata Include="Service References\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="accessdb\att2000.mdb">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

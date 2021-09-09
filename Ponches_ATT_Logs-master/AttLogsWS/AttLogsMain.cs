@@ -40,8 +40,9 @@ namespace AttLogs
             InitializeComponent();
         }
         //Create Standalone SDK class dynamicly.        
-        public CZKEMClass axCZKEM1 = new zkemkeeper.CZKEMClass();
+        public CZKEM axCZKEM1 = new zkemkeeper.CZKEM();
 
+        
         #region Fields
         private DataTable mitabla = new DataTable();
         private OleDbDataReader reader;
@@ -140,7 +141,7 @@ namespace AttLogs
                                 if (clear == "true")
                                 {
                                     Console.WriteLine("Clearing Logs ");
-                                    ClearLogs(ref ExReloj);       // clear logs of an connected machine         
+                                    //ClearLogs(ref ExReloj);       // clear logs of an connected machine         
                                 }
                             }
 
@@ -318,19 +319,19 @@ namespace AttLogs
             try
             {
                  //string url = ConfigurationManager.AppSettings["EndPoint"];
-                 var handler = new HttpClientHandler()
-                 {
-                     Credentials = new NetworkCredential(user, password)
-                 };
+                 //var handler = new HttpClientHandler()
+                 //{
+                 //    Credentials = new NetworkCredential(user, password)
+                 //};
 
-                 using (var client = new HttpClient(handler))
+                 using (var client = new HttpClient())
                  {
                      client.BaseAddress = new Uri(url);
                      client.DefaultRequestHeaders.Accept.Clear();
                      client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/x-www-form-urlencoded"));
                      client.DefaultRequestHeaders.ConnectionClose = true;
                      var formContent = new StringContent(json, Encoding.UTF8, "application/json");
-                    HttpResponseMessage responseMessage = await client.PostAsync("zhr_service?sap-client="+sapClient+"/", formContent);
+                    HttpResponseMessage responseMessage = await client.PostAsync("api/Ponche/CargaPonche/", formContent);
                     string result = await responseMessage.Content.ReadAsStringAsync();
 
                     Console.WriteLine(result);

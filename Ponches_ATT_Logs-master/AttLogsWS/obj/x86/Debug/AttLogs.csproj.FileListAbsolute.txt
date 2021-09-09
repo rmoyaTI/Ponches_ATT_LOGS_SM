@@ -66,3 +66,21 @@ C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\o
 C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\obj\x86\Debug\AttLogs.Properties.Resources.resources
 C:\Users\gmarte.CESARIGLESIAS\Documents\Source\Repos\Interfaz ZKTIME\AttLogsWS\obj\x86\Debug\Attlogs.csproj.GenerateResource.Cache
 C:\Users\rmoya\source\repos\interfaz-zktime2\AttLogsWS\obj\x86\Debug\Attlogs.csprojAssemblyReference.cache
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\obj\x86\Debug\Attlogs.csprojAssemblyReference.cache
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\obj\x86\Debug\Attlogs.csproj.ResolveComReference.cache
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\obj\x86\Debug\AttLogs.AttLogsMain.resources
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\obj\x86\Debug\AttLogs.Properties.Resources.resources
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\obj\x86\Debug\Attlogs.csproj.GenerateResource.cache
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\obj\x86\Debug\Attlogs.csproj.CoreCompileInputs.cache
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\obj\x86\Debug\AttLogs.exe
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\obj\x86\Debug\AttLogs.pdb
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\bin\x86\Debug\accessdb\att2000.mdb
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\bin\x86\Debug\AttLogs.exe.config
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\bin\x86\Debug\AttLogs.exe
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\bin\x86\Debug\AttLogs.pdb
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\bin\x86\Debug\Rackspace.Collections.Immutable.dll
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\bin\x86\Debug\Rackspace.Collections.Immutable.xml
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\obj\x86\Debug\Interop.zkemkeeper.dll
+C:\Users\rmoya\Documents\GitHub\Ponches_ATT_LOGS_SM\Ponches_ATT_Logs-master\AttLogsWS\obj\x86\Debug\Attlogs.csproj.CopyComplete
